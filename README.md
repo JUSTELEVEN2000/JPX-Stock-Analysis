@@ -146,7 +146,7 @@ The project includes an interactive Tableau Public dashboard with two main views
 2. Stock Explorer:
 * Allows users to select an individual stock and examine: Daily return trend, 20-day volatility trend, Key stock indicators, Historical date range.
 
-🔗 Tableau Public Dashboard: JPX Stock Analysis
+🔗 **Tableau Public Dashboard:** [JPX Stock Analysis Market Overview](https://public.tableau.com/app/profile/luyi.shou/viz/JPX_Stock_Analysis/MarketOverview)
 
 ## Repository Structure
 

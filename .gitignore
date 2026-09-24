@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Large raw data
+data/stock_prices_raw.csv
+
+# Local / temporary files
+*.tmp
+*.log
+
+# Tableau local files
+*.twb
+*.twbx
+
+# Tableau temporary files
+*.twbr
+
+# Large generated datasets
+data/stock_prices_raw.csv
+data/daily_return.csv
+data/volatility_20d.csv
+data/moving_average_20d.csv
+data/volume.csv
+data/stock_analysis_dataset.csv
+data/stock_model_dataset.csv
+data/stock_feature_dataset.csv
+data/stock_model_expanded.csv
+data/stock_feature_expanded.csv
+data/tableau_stock_data.csv

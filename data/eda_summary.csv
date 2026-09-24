@@ -1,0 +1,17 @@
+Metric,Value
+Number of stocks,3703
+Number of trading days,403
+Number of observations,1474127
+Mean daily return,0.000996439317968019
+Median daily return,0.0
+Daily return standard deviation,0.027021866844986517
+Mean 20-day volatility,0.0213156444504629
+Median 20-day volatility,0.01682809658451965
+Maximum equal-weighted market return,0.06733838559298333
+Maximum return date,2025-04-08
+Minimum equal-weighted market return,-0.07790276322050471
+Minimum return date,2025-04-07
+Returns above +50%,33
+Returns below -50%,6
+Total extreme returns,39
+Log(volume)-volatility correlation,0.3068294132510697

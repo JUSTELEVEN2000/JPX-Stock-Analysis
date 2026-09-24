@@ -78,6 +78,7 @@ Model Diagnostics
           │
           ▼
 Tableau Interactive Dashboard
+```
 
 ## Exploratory Data Analysis
 
@@ -170,6 +171,7 @@ JPX-Stock-Analysis/
 │   └── create_analysis_dataset.py
 │
 └── .gitignore
+```
 
 Note: Large raw and intermediate datasets are excluded from Git tracking via ⁠.gitignore⁠.
 
